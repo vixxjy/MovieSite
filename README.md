@@ -5,3 +5,4 @@ This project was built with React.js, styled compoments. Implementing the TMDB m
 https://www.themoviedb.org/
 
 ## Hosted on netlify
+https://tmdb-site.netlify.app/
