@@ -13,8 +13,7 @@ import { useHomeFetch } from '../hooks/useHomeFetch'
 
 //Image
 import NoImage from '../images/no_image.jpg';
-// import Header from './Header';
-// import G from 'glob';
+
 
 const Home = () => {
     const {state, loading, error, searchTerm, setSearchTerm, setIsLoadingMore} = useHomeFetch()
